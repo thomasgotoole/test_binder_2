@@ -1,0 +1,5 @@
+install.packages(gutenbergr)
+install.packages(tidyverse)
+install.packages(dplyr)
+install.packages(tidytext)
+install.packages(bbplot)
